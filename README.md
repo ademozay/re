@@ -20,7 +20,7 @@ This example tries to connect `:8000`  over `tcp` 6 times in 3 seconds.
 package main
 
 import (
-	"net"
+    "net"
     
     "github.com/ademozay/re"
 )
