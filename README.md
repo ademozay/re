@@ -1,4 +1,5 @@
 # re
+[![Build Status](https://travis-ci.org/ademozay/re.svg?branch=master)](https://travis-ci.org/ademozay/re) [![Coverage Status](https://coveralls.io/repos/github/ademozay/re/badge.svg?branch=master)](https://coveralls.io/github/ademozay/re?branch=master)
 
 Just retries tasks in a time manner.
 
