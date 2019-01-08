@@ -2,7 +2,7 @@
 
 Just retries tasks in a time manner.
 
-## Install
+## Install
 
 ```
 go get -u github.com/ademozay/re
